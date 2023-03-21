@@ -91,11 +91,12 @@ export const TextStyled = styled("p")`
 
 export const ButtonStyled = styled("button")`
   display: block;
+  width: 196px;
+  height: 50px;
   font-family: "Montserrat-SemiBold", sans-serif;
   font-size: 18px;
   line-height: 21.94px;
   color: #373737;
-  padding: 14px 56px;
   background-color: ${(p) =>
     p.nameButton === "FOLLOWING" ? "#5CD3A8" : "#ebd8ff"};
   box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);

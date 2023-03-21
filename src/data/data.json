@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://i.pravatar.cc/300?u=1@example.com"
+  },
+  {
+    "id": 2,
+    "user": "Elon Reeve Musk",
+    "tweets": 111,
+    "followers": 10050,
+    "avatar": "https://i.pravatar.cc/300?u=2@example.com"
+  },
+  {
+    "id": 3,
+    "user": "Elon Reeve Musk",
+    "tweets": 2222,
+    "followers": 222334,
+    "avatar": "https://i.pravatar.cc/300?u=3@example.com"
+  },
+  {
+    "id": 4,
+    "user": "Elon Reeve Musk",
+    "tweets": 123,
+    "followers": 12345,
+    "avatar": "https://i.pravatar.cc/300?u=4@example.com"
+  },
+  {
+    "id": 5,
+    "user": "Elon Reeve Musk",
+    "tweets": 4356,
+    "followers": 10,
+    "avatar": "https://i.pravatar.cc/300?u=5@example.com"
+  },
+  {
+    "id": 6,
+    "user": "Elon Reeve Musk",
+    "tweets": 4000,
+    "followers": 500000,
+    "avatar": "https://i.pravatar.cc/300?u=6@example.com"
+  },
+  {
+    "id": 7,
+    "user": "Elon Reeve Musk",
+    "tweets": 1500,
+    "followers": 900,
+    "avatar": "https://i.pravatar.cc/300?u=7@example.com"
+  },
+  {
+    "id": 8,
+    "user": "Elon Reeve Musk",
+    "tweets": 2000,
+    "followers": 135021,
+    "avatar": "https://i.pravatar.cc/300?u=8@example.com"
+  },
+  {
+    "id": 9,
+    "user": "Elon Reeve Musk",
+    "tweets": 561,
+    "followers": 370,
+    "avatar": "https://i.pravatar.cc/300?u=9@example.com"
+  }
+]

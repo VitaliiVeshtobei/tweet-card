@@ -55,6 +55,16 @@ export const EclipseBackStyled = styled("img")`
   transform: translate(-50%, -50%);
 `;
 
+export const ContainerAvatarStyled = styled("div")`
+  position: absolute;
+  overflow: hidden;
+  border-radius: 50%;
+  width: 62px;
+  height: 62px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+`;
 export const AvatarStyled = styled("img")`
   position: absolute;
   width: 62px;
@@ -86,7 +96,8 @@ export const ButtonStyled = styled("button")`
   line-height: 21.94px;
   color: #373737;
   padding: 14px 56px;
-  background-color: #ebd8ff;
+  background-color: ${(p) =>
+    p.nameButton === "FOLLOWING" ? "#5CD3A8" : "#ebd8ff"};
   box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
   border-radius: 10.3108px;
   border: none;
